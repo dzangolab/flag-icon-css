@@ -1,7 +1,7 @@
 {
-  "name": "flag-icon-css",
+  "name": "@dzangolab/flag-icon-css",
   "version": "3.4.5",
-  "author": "OLivier Pichon <op@dzango.com>",
+  "author": "Olivier Pichon <op@dzango.com>",
   "licenses": [
     {
       "type": "MIT",
